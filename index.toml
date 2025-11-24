@@ -33,6 +33,16 @@ hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
 metafile = true
 
 [[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "792db6eb097b3731d24c1888723ffcfd7914cec6b969f103a672cc7504cfe3b3"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "06f14238b158016b8832fbc2cd7e9730a58ef475fc74359031a4f4f8cba1340f"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "6d717e11f5a11194004d8879b5c1e46448394855211ce8ac1937ae40895f2c27"
 metafile = true
@@ -85,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "e82e55f18e637d969caa89a0abd5e1ac72b1de18a7299f6a698959b6fca7388a"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "2c70a5c7fe3645b0e297fef8b9b091666e96c0b362d984918ed22df94464f2f0"
 metafile = true
 
 [[files]]
@@ -203,6 +218,11 @@ hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
 metafile = true
 
 [[files]]
+file = "mods/name-tag-tweaks.pw.toml"
+hash = "b82596c98473c661b1a4551ac430aaff36a5e391d8d92979faaa472f97abc0aa"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
 metafile = true
@@ -230,6 +250,16 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "22a83a04b4df87ab4bbea18228c3cc695551610c66cc79ccc315d783d3f7848f"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "42a73228a2e7ddd0a2ebba1e2a03dec5dbf4605854ec89c05f7e1374baffeae5"
+metafile = true
+
+[[files]]
+file = "mods/serverbacksnow.pw.toml"
+hash = "45b0ef25293813e21fc48e7e554890936eb2c054ff53376129e64c3995b3cf62"
 metafile = true
 
 [[files]]
@@ -265,6 +295,16 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "52ac59a01a3eb32b0ee2620bd26d8d0c4dda9eb49877aaa2c14dcbbfd2ca0374"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "e9302f39fb02c0a1f88893785d54b08e41a17c9fb3e39c29c3794e7ed7f86bad"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "7b976155d02000a064de326c3918686bc8be05125a16570659c5f5c9feab768b"
 metafile = true
 
 [[files]]
