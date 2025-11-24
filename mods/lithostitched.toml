@@ -1,0 +1,8 @@
+name = "LithoStitched"
+filename = "lithostitched-1.5.1-fabric-1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/RunawayHyena/lewiscraft-modpack/raw/refs/heads/missing-lib/lithostitched-1.5.1-fabric-1.21.9.jar"
+hash-format = "sha512"
+hash = "3c2a6f884b9858f516234d4969d459f2b9555c4b"

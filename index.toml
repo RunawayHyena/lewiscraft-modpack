@@ -191,6 +191,10 @@ hash = "6768436aae94ac92d1ecd91d1601d4b34b6fe618b2292855151b3b5c382d9eac"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.toml"
+hash = "5ef5c9ae0fc3cf8a4193f0883c43fca7b9d73162f05612e711e54ef7219c2555"
+
+[[files]]
 file = "mods/ly-graves.pw.toml"
 hash = "20779e1962b9197eef99054d1ac63b1b82c1a92c23e3d05b425b5f9cf9e002a3"
 metafile = true
