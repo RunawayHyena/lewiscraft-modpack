@@ -5,14 +5,6 @@ file = "README.md"
 hash = "ddd1b449d32f26c4be2d6daf0ad8410db2dd5b56b7191149a2a0ce0095cea87d"
 
 [[files]]
-file = "gitattributes"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = "gitignore"
-hash = "615471c0958030fcd69310a182346ad2f0228a924b86c8c82297efeb45b89470"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "73b2408a4e00098cf7a97455fe493949808ae1a138c49bec088cbd3c750d6a51"
 metafile = true
@@ -371,7 +363,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "45f81bda993af1f0a9d418dda93aacbda4bf2ea56f77a9d2845c3536ca630c52"
 metafile = true
-
-[[files]]
-file = "packwizignore"
-hash = "b85d9f4c68a66b28d9f0a16e17b72e6638d55c0c78a97e60ac5c38febba7bae6"
