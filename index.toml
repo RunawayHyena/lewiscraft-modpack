@@ -5,6 +5,14 @@ file = "README.md"
 hash = "ddd1b449d32f26c4be2d6daf0ad8410db2dd5b56b7191149a2a0ce0095cea87d"
 
 [[files]]
+file = "gitattributes"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "73b2408a4e00098cf7a97455fe493949808ae1a138c49bec088cbd3c750d6a51"
 metafile = true
