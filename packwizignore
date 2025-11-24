@@ -3,12 +3,6 @@
 
 # Exclude README
 /README.md
-.packwizignore
 .gitignore
-.gitattributes
-/packwizignore
-/gitattributes
 /gitignore
-/.packwizignore
-/.gitattributes
 /.gitignore

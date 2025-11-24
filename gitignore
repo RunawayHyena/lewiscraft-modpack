@@ -3,3 +3,8 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude the 3 files
+.gitignore
+.gitattributes
+.packwizignore
