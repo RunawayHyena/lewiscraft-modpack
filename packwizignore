@@ -6,3 +6,9 @@
 .packwizignore
 .gitignore
 .gitattributes
+/packwizignore
+/gitattributes
+/gitignore
+/.packwizignore
+/.gitattributes
+/.gitignore
