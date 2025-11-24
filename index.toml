@@ -371,3 +371,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "45f81bda993af1f0a9d418dda93aacbda4bf2ea56f77a9d2845c3536ca630c52"
 metafile = true
+
+[[files]]
+file = "packwizignore"
+hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
