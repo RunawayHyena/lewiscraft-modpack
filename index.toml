@@ -178,6 +178,11 @@ hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "251f87892329f54add949ca4291a3676f6af1f741c2462477fa8f21c0b00fa40"
+metafile = true
+
+[[files]]
 file = "mods/ly-graves.pw.toml"
 hash = "20779e1962b9197eef99054d1ac63b1b82c1a92c23e3d05b425b5f9cf9e002a3"
 metafile = true
@@ -275,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/undead-leather.pw.toml"
 hash = "e40263983c7dd10236bf6e23eb439f08d91a038b8ec0473f5e53213137ca3ceb"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "c747d8ec64328f2722166ac62ea371cd5becf82fa4b8012a679092649046f5b4"
 metafile = true
 
 [[files]]
