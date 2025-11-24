@@ -1,0 +1,16 @@
+name = "lewispack"
+author = "Noemi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b653ea36e59fed89af88b95c100c31072c793485857166f6a33b7b8e81fcdd95"
+
+[versions]
+fabric = "0.18.1"
+minecraft = "1.21.10"
+
+[options]
+acceptable-game-versions = ["1.21.10", "1.21.9"]
