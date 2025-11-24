@@ -1,0 +1,13 @@
+name = "lewsicraft-modpack"
+author = "Noemi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2e8efb23a71cacf5b96f0571eb1da6b0fb1e45c48648a79bdbbd2f6a07280047"
+
+[versions]
+fabric = "0.18.1"
+minecraft = "1.21.10"
