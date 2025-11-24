@@ -203,6 +203,11 @@ hash = "20779e1962b9197eef99054d1ac63b1b82c1a92c23e3d05b425b5f9cf9e002a3"
 metafile = true
 
 [[files]]
+file = "mods/macrokeybinds.pw.toml"
+hash = "48d14b35cec8ec67d532827c7687a3a99f8750bb4c558e937e6a26fc87097e65"
+metafile = true
+
+[[files]]
 file = "mods/minecraft_autotools.pw.toml"
 hash = "d573dfdb3d44d671290aabfa6d3bea747c75ba2ba9d9c9e659c72d2cbedb5a23"
 metafile = true

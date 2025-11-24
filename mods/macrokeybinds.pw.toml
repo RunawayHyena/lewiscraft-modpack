@@ -1,0 +1,13 @@
+name = "Macro Keybinds"
+filename = "1.21.9-1.21.10-macrokeybinds-fabric-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2loIqHKX/versions/TiSl70Nu/1.21.9-1.21.10-macrokeybinds-fabric-1.3.1.jar"
+hash-format = "sha512"
+hash = "b25565c17ed00a883e0015f6ce04caceb8301388243f723df0130f32d9965fcad1f26109ef769f013b1617ebc07a08a044a97ebe84cbf1ae4736ed739926265d"
+
+[update]
+[update.modrinth]
+mod-id = "2loIqHKX"
+version = "TiSl70Nu"
