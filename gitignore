@@ -5,6 +5,6 @@
 *.mrpack
 
 # Exclude the 3 files
-.gitignore
-.gitattributes
-.packwizignore
+/.gitignore
+/.gitattributes
+/.packwizignore
