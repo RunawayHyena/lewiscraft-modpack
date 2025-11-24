@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "ddd1b449d32f26c4be2d6daf0ad8410db2dd5b56b7191149a2a0ce0095cea87d"
-
-[[files]]
-file = "gitattributes"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = "gitignore"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
@@ -374,7 +362,3 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 [[files]]
 file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
-file = "packwizignore"
-hash = "9f6edd634b0cac9086f9aa22c96880b7552d7cc6a95128df9f79578a080d2daa"
