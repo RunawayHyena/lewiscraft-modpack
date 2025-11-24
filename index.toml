@@ -78,6 +78,11 @@ hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "da925d1159906a6c993fa4be167a48ae350d77daa1950a68135bf56c4e0dbb62"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "fe04f0d6db074548db155c4863bd812b40b95dc3a3bc041d2f25d244674cdd59"
 metafile = true
@@ -260,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "42a73228a2e7ddd0a2ebba1e2a03dec5dbf4605854ec89c05f7e1374baffeae5"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "5ae220cfbb26641c68740ad0166c78f353680886fc28087e63bf07280a47ddbb"
 metafile = true
 
 [[files]]
