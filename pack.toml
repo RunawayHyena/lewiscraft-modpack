@@ -1,4 +1,4 @@
-name = "lewispack"
+name = "lewiscraft-modpack"
 author = "Noemi"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e8b98761cf0640f5d245f6af6fc57646b59a903b40201b638eaddf9670626862"
+hash = "a11ab39f2b2fff4d381d9da85e6c2cf513975047b9427a6b96febe4f740597e1"
 
 [versions]
 fabric = "0.18.1"
 minecraft = "1.21.10"
-
-[options]
-acceptable-game-versions = ["1.21.10", "1.21.9"]
