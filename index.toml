@@ -160,6 +160,11 @@ hash = "7f5ae343f4e9e6e49c723311892b02351ff8031b2c3a1bf3d0e700bcd996ce90"
 metafile = true
 
 [[files]]
+file = "mods/inventory-totem.pw.toml"
+hash = "5e0d1e1fe8209953a57de4968e57695217c3953d0fd3f54a7928e31ab27eff1c"
+metafile = true
+
+[[files]]
 file = "mods/inventoryhudplus.pw.toml"
 hash = "b0366239de9d38bb6162e37b2bfd77a136732d35bc8e79688f4cffc18de17f70"
 metafile = true
@@ -182,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "7c9ed8db12a2bfd5bdcb6c3060ff9081dc65991e7e20defd2f0215faec25f5ce"
+metafile = true
+
+[[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "6961b9b320387c2449f2ac9a297e2843de7fde9a8200bf57c45af32f5b65ce6b"
 metafile = true
 
 [[files]]
@@ -234,6 +244,16 @@ hash = "b82596c98473c661b1a4551ac430aaff36a5e391d8d92979faaa472f97abc0aa"
 metafile = true
 
 [[files]]
+file = "mods/nct.pw.toml"
+hash = "5b269a75d6fb04991d561668828fd81aaa30ed111a39a9cf8927004e1d9a752f"
+metafile = true
+
+[[files]]
+file = "mods/no-animal-tempt-delay.pw.toml"
+hash = "fa11adea1b726cedd006438624798ec4719a13030bfbcf3011bf8fad43b04578"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
 metafile = true
@@ -264,6 +284,11 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
+file = "mods/petprotect.pw.toml"
+hash = "264ec406b239ebd5b1783ccea701601237c011519373b78546a265d928209829"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
@@ -271,6 +296,16 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "22a83a04b4df87ab4bbea18228c3cc695551610c66cc79ccc315d783d3f7848f"
+metafile = true
+
+[[files]]
+file = "mods/recast.pw.toml"
+hash = "11b6f010c61ddf4d2abb6d1b9e3e90ac5a86024a57a5b5b0bbf5eb62c4fb0b87"
+metafile = true
+
+[[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "0d0c6f2bff2b6bc01d248895a301f36593d40665743a406f9a309e89737028e2"
 metafile = true
 
 [[files]]

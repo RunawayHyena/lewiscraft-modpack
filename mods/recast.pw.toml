@@ -1,0 +1,13 @@
+name = "Recast"
+filename = "recast-1.21.10-3.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8TWzoOby/versions/MQkhGay0/recast-1.21.10-3.7.jar"
+hash-format = "sha512"
+hash = "5b2967fa997eb7f8dec50df779e0ab72632178bce1615c88743fed31498910a821fa819b60e98f18ec9c565171012c047ab292c0c348afee03d50cefee86a060"
+
+[update]
+[update.modrinth]
+mod-id = "8TWzoOby"
+version = "MQkhGay0"
