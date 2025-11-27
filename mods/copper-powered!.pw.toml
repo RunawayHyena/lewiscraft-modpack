@@ -1,0 +1,13 @@
+name = "Copper Powered!"
+filename = "copper-powered!-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJ4yz3W7/versions/uS9PdO2V/copper-powered%21-1.0.0.jar"
+hash-format = "sha512"
+hash = "c3959932afa38d69750791435cf2a3215dbfe6988a683a584a4051b2ca692f60eabd8839ab08e1979a661ea6e381579968e94b3e7994bdd738e0a489ba5bcd2f"
+
+[update]
+[update.modrinth]
+mod-id = "uJ4yz3W7"
+version = "uS9PdO2V"

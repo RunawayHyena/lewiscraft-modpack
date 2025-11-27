@@ -75,6 +75,11 @@ hash = "da925d1159906a6c993fa4be167a48ae350d77daa1950a68135bf56c4e0dbb62"
 metafile = true
 
 [[files]]
+file = "mods/copper-powered!.pw.toml"
+hash = "16d6def042b8b6f2eeab576390b1c249d797cac66127825b18690e7faca94939"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "fe04f0d6db074548db155c4863bd812b40b95dc3a3bc041d2f25d244674cdd59"
 metafile = true
@@ -316,11 +321,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
-metafile = true
-
-[[files]]
-file = "mods/toms-storage-fabric.pw.toml"
-hash = "5f82576fafce6528fb6501d78d22ee4fecca2beba743a172571e3bbf98c95f56"
 metafile = true
 
 [[files]]
