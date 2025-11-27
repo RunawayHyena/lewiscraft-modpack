@@ -1,0 +1,13 @@
+name = "No Creeper Grief"
+filename = "no-creeper-grief-v1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/flHpkyzN/versions/7zgs4KND/no-creeper-grief-v1.2.0.jar"
+hash-format = "sha512"
+hash = "d020dac035f8d1e644ccab927f072e7549464f05249959be1d5cbc395ee1bde80268d8c0382500270bd205631aab73d83b643954bafa8bd94974d87ceee23d1d"
+
+[update]
+[update.modrinth]
+mod-id = "flHpkyzN"
+version = "7zgs4KND"

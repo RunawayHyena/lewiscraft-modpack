@@ -1,0 +1,13 @@
+name = "Simple Autoswitch"
+filename = "simple-autoswitch-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EY806yi2/versions/AwZnRhHI/simple-autoswitch-1.3.1.jar"
+hash-format = "sha512"
+hash = "7bd6407875beff41b851aba631f2596259407539f20d9cf74ce1f3dc55f244d149fdc8a31b3d989800990635b4122695e64dfaa8226dedaf98f97003188897e1"
+
+[update]
+[update.modrinth]
+mod-id = "EY806yi2"
+version = "AwZnRhHI"

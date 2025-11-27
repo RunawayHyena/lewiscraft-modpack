@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "PW-GUI.exe"
+hash = "cb701ee140fc7222da13c8884a74d9c5a0f2d6b9860fa2a0eb78000a496f3642"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
@@ -131,6 +135,11 @@ hash = "ccc016081b9d6559b5c921a02151b8113db0a1c15a0a09983e61086ab41c2b8a"
 metafile = true
 
 [[files]]
+file = "mods/haul-data-pack.pw.toml"
+hash = "0d23e1b58594302e30137049822fa3cc2fc83bc199215339acf3750c66c187db"
+metafile = true
+
+[[files]]
 file = "mods/hidearmormod.pw.toml"
 hash = "7dd8af2ed6f9e72d6c9045bc7772a793c010a83ba606d264caf630b3d4442cc0"
 metafile = true
@@ -205,11 +214,6 @@ hash = "48d14b35cec8ec67d532827c7687a3a99f8750bb4c558e937e6a26fc87097e65"
 metafile = true
 
 [[files]]
-file = "mods/minecraft_autotools.pw.toml"
-hash = "d573dfdb3d44d671290aabfa6d3bea747c75ba2ba9d9c9e659c72d2cbedb5a23"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
 metafile = true
@@ -227,6 +231,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
+metafile = true
+
+[[files]]
+file = "mods/no-creeper-grief.pw.toml"
+hash = "2492f065d0a8d6f822c56eb7bb2ed989df479e32931abce10977d5f58c7a8458"
+metafile = true
+
+[[files]]
+file = "mods/no-enderman-grief.pw.toml"
+hash = "b678e6d1c225517f2af0ce9fca8d01ad2c048c9ce7fdcd71a073a11599d48b10"
 metafile = true
 
 [[files]]
@@ -280,6 +294,11 @@ hash = "493a76add332abb0dfa23004300ea2ae77a8448960f603519c1db5ab4d769413"
 metafile = true
 
 [[files]]
+file = "mods/simpleautoswitch.pw.toml"
+hash = "56cb0c67c9357ebc8f77efe42132587c9aafb8df52bdf0d81415a5fb7a7a1ce8"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
@@ -300,8 +319,8 @@ hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "52ac59a01a3eb32b0ee2620bd26d8d0c4dda9eb49877aaa2c14dcbbfd2ca0374"
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "5f82576fafce6528fb6501d78d22ee4fecca2beba743a172571e3bbf98c95f56"
 metafile = true
 
 [[files]]
