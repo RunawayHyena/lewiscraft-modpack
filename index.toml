@@ -135,11 +135,6 @@ hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
 metafile = true
 
 [[files]]
-file = "mods/grimac.pw.toml"
-hash = "ccc016081b9d6559b5c921a02151b8113db0a1c15a0a09983e61086ab41c2b8a"
-metafile = true
-
-[[files]]
 file = "mods/haul-data-pack.pw.toml"
 hash = "0d23e1b58594302e30137049822fa3cc2fc83bc199215339acf3750c66c187db"
 metafile = true
@@ -356,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "52ac59a01a3eb32b0ee2620bd26d8d0c4dda9eb49877aaa2c14dcbbfd2ca0374"
 metafile = true
 
 [[files]]
