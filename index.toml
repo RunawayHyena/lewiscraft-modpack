@@ -160,11 +160,6 @@ hash = "7dd8af2ed6f9e72d6c9045bc7772a793c010a83ba606d264caf630b3d4442cc0"
 metafile = true
 
 [[files]]
-file = "mods/hold-my-items.pw.toml"
-hash = "0150fca686c5d2af934554415286217398354f82175263a5d2447d5e9fd06dcb"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "db46aeba51086f72e755106ca1a2196717ddb3844dfd7b781e7a93c57a9d5b32"
 metafile = true
