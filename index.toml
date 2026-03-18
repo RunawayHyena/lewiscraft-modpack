@@ -55,8 +55,18 @@ hash = "6083db761c82eece49adba0b0cee0b37068422e2eb170b7039ebae65972d03e1"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "35b547f436644b0b5e08f36386fcf16e76616f0ab772c5c9bd1196accebd223b"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "783d509d7069d90ca34641f64936fc0eba7b974f0209e40a7ce915e4436e3309"
+metafile = true
+
+[[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "79aaeaf2998335e5a4a99fb5feb30d416e631a7313259c7ed081f7c087886930"
 metafile = true
 
 [[files]]
@@ -105,6 +115,11 @@ hash = "e82e55f18e637d969caa89a0abd5e1ac72b1de18a7299f6a698959b6fca7388a"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "66746425efdea3404586883527e6b6ffcfd36e45d52ecf42dea1733f70709de1"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "2c70a5c7fe3645b0e297fef8b9b091666e96c0b362d984918ed22df94464f2f0"
 metafile = true
@@ -147,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/hidearmormod.pw.toml"
 hash = "7dd8af2ed6f9e72d6c9045bc7772a793c010a83ba606d264caf630b3d4442cc0"
+metafile = true
+
+[[files]]
+file = "mods/hold-my-items.pw.toml"
+hash = "0150fca686c5d2af934554415286217398354f82175263a5d2447d5e9fd06dcb"
 metafile = true
 
 [[files]]
@@ -299,6 +319,16 @@ hash = "22a83a04b4df87ab4bbea18228c3cc695551610c66cc79ccc315d783d3f7848f"
 metafile = true
 
 [[files]]
+file = "mods/potted-farms.pw.toml"
+hash = "324488452cd3a9ca210f4fb39fb5ad610bddcb9951e2f2990eec49b4a1400bb3"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "bedbd2675abf6bdb06c80570ba63d88e08caf7bb431d01e446d8770a5c62a9fb"
+metafile = true
+
+[[files]]
 file = "mods/recast.pw.toml"
 hash = "11b6f010c61ddf4d2abb6d1b9e3e90ac5a86024a57a5b5b0bbf5eb62c4fb0b87"
 metafile = true
@@ -349,13 +379,18 @@ hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "1e78d593cf4ee1fca22780db53353b59ac36f718efbfb379f99e3cdf010f408c"
+file = "mods/stoneworks.pw.toml"
+hash = "70adfbb947e11fc4ec629d7cfefb34c5937e6cd9319ca1ff25a169b532ea5efb"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
+file = "mods/terrablender.pw.toml"
+hash = "73b96f5d0345bff977a9c69524bedf4805c7070bfa0ba65329dd166b891e64bb"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "bd8e824ce30c3f1eb1ade1ebccf2eb1ab481e0efb776a718fa4289e57c4c978a"
 metafile = true
 
 [[files]]
@@ -366,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "e9302f39fb02c0a1f88893785d54b08e41a17c9fb3e39c29c3794e7ed7f86bad"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "f0154a8291bf65bd7f81950e3b677a1f456c0be4582819088b16101610658b09"
 metafile = true
 
 [[files]]
@@ -386,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/undead-leather.pw.toml"
 hash = "e40263983c7dd10236bf6e23eb439f08d91a038b8ec0473f5e53213137ca3ceb"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "c0f2b8afb5ac82ec5af178f0114710c7a9aa2a658da1696a6b7d602b1228234e"
 metafile = true
 
 [[files]]

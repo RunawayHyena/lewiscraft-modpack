@@ -1,0 +1,13 @@
+name = "Potted Farms"
+filename = "potted-farms-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/chaqsI3O/versions/fnswGpgd/potted-farms-1.1.2.jar"
+hash-format = "sha512"
+hash = "7a2663b2435336af2363f65d4cc4acad0660ce7b9b75a33ae2fd92d2d683cbfcdb6bb4197dcd6d5df33fdecd356e0b356b984308c4145c3900b0ca633d0c61fd"
+
+[update]
+[update.modrinth]
+mod-id = "chaqsI3O"
+version = "fnswGpgd"
