@@ -404,11 +404,6 @@ hash = "e9302f39fb02c0a1f88893785d54b08e41a17c9fb3e39c29c3794e7ed7f86bad"
 metafile = true
 
 [[files]]
-file = "mods/traverse.pw.toml"
-hash = "f0154a8291bf65bd7f81950e3b677a1f456c0be4582819088b16101610658b09"
-metafile = true
-
-[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "7b976155d02000a064de326c3918686bc8be05125a16570659c5f5c9feab768b"
 metafile = true
